@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 28 20:54:15 IST 2019
+hibernate-commons-annotations-3.3.0.ga.jar>central=
+hibernate-commons-annotations-3.3.0.ga-sources.jar>central=
+hibernate-commons-annotations-3.3.0.ga.pom>central=

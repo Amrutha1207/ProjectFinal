@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 29 19:58:49 IST 2019
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1567088929591
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact javax.annotation\:jsr250-api\:jar\:sources\:1.0 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
